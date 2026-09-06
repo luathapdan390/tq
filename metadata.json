@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Thi Vào Lớp 10 Môn Tiếng Anh",
+  "description": "Ứng dụng làm bài tập trắc nghiệm luyện thi vào lớp 10 môn Tiếng Anh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
